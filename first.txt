@@ -1,2 +1,3 @@
 Test File
 develop changed merged
+chnaged in master
